@@ -5,7 +5,7 @@ This repo has the following artifacts
 <br>imagenet_classes.txt # consists of image labels
 <br>response.json # Image string data
 <br>ReadME.md # Provides information on reproduce the results
-
+<br>Predict_Image_classify.postman_collection.json  # PPostman collection to be imported to run the requests from API
 Code Testing is done using post man.
 
 **Steps to reproduce the results:**
